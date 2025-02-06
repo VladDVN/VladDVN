@@ -1,15 +1,25 @@
-Hi 👋 My name is Volodymyr Dvinianinov
-======================================
-
+# Hi 👋 My name is Volodymyr Dvinianinov
+======================================<br>
 Developer and Data Analyst
 --------------------------
+## Українською:
+  Мене звати Володимир Двінянінов, і я працюю з програмами для бухгалтерського та управлінського обліку.<br> 
+  Цей репозиторій створений для досліджень у взаємодії з CMS Joomla.
+  
+   Мої компетенції:
+   - Аналіз данних, розробка звітів;
+   - міграція данних;
+   - взаємодія з іншими системами по Rest API
+   Наразі я працюю над пет-проектом ["Salto"](http://www.salto.org.ua)
 
-I work with accounting, management accounting, and financial analysis programs. Development of reports and tools for working with databases.
+## En:
+### I work with accounting, management accounting, and financial analysis programs. Development of reports and tools for working with databases.
+ This repository is created for research in interaction with the Joomla CMS.
 
 * 🌍  I'm based in Ukraine
 * 🚀  I'm currently working on [personal project "Salto"](http://www.salto.org.ua)
 * 🧠  I'm learning Joomla 5, PHP, Flutter
-
+  
 ### Skills
 
 <p align="left">
